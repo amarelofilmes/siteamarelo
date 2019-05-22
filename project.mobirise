@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Amarelo Filmes",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -664,12 +664,12 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019422-1632142019-4-3-16-34-8.jpg",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/337851853",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1080-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1280-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Construct In - Institucional",
+                "caption": "Campanha Dia das Mães Lift Gold - Web",
                 "active": true
               }
             ]
