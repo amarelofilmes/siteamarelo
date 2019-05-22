@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Amarelo Filmes",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -648,6 +648,19 @@
               },
               {
                 "tags": "Criativo",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019422-1632142019-4-3-16-49-17.jpg",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/337851853",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Construct In - Institucional",
+                "active": true
+              },
+              {
+                "tags": "Criativo",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201943-1937112019-4-5-19-37-43.jpg",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/334081136",
@@ -658,19 +671,6 @@
                 "customStyle1": "display-7",
                 "caption": "Campanha Dia das Mães Lift Gold - Web",
                 "active": false
-              },
-              {
-                "tags": "Criativo",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019422-1632142019-4-3-16-34-8.jpg",
-                "playVideo": true,
-                "videoUrl": "https://vimeo.com/337851853",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Campanha Dia das Mães Lift Gold - Web",
-                "active": true
               }
             ]
           }
@@ -1551,11 +1551,11 @@
               },
               {
                 "tags": "Institucional",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019422-1632142019-4-3-16-34-8.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019422-1632142019-4-3-16-49-17.jpg",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/337851853",
-                "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280-800x533.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1280-800x533-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
