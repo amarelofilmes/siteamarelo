@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Amarelo Filmes",
-    "currentPage": "www.amarelofilmes.com.html",
+    "currentPage": " .html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3353,7 +3353,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/background14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/background15.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/background1-800x533.jpg",
                 "alt": "",
                 "title": "",
@@ -3459,11 +3459,11 @@
         }
       ]
     },
-    "www.amarelofilmes.com.html": {
+    " .html": {
       "settings": {
         "main": true,
         "title": "Amarelo Filmes",
-        "meta_descr": "",
+        "meta_descr": "Home",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
