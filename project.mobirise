@@ -43,7 +43,9 @@
     "versionPublish": "4.9.7",
     "favicon": "",
     "noImageResize": "",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteUrl": "undefined",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-148742029-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-148742029-1');\r\n</script>"
   },
   "pages": {
     "rosario.html": {
@@ -4119,7 +4121,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/background10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/background11.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/background1-800x533.jpg",
                 "alt": "",
                 "title": "",
