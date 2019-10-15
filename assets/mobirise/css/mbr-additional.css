@@ -1996,7 +1996,7 @@ body {
 }
 .cid-rD0HZqpMyW {
   padding-top: 0px;
-  padding-bottom: 60px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-rD0HZqpMyW [class^="socicon-"]:before,
@@ -2016,6 +2016,10 @@ body {
   .cid-rD0HZqpMyW .btn {
     font-size: 20px !important;
   }
+}
+.cid-rD0HZqpMyW .btn-social,
+.cid-rD0HZqpMyW .mbr-section-title {
+  color: #003a63;
 }
 .cid-rCX3ik64QI {
   padding-top: 30px;
