@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Amarelo Filmes",
-    "currentPage": "rosario.html",
+    "currentPage": "teasers.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3463,15 +3463,15 @@
               },
               {
                 "tags": "Animado",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201998-1510252019-9-2-15-31-32.jpg",
-                "playVideo": false,
-                "videoUrl": "https://youtu.be/KpE20dqpTqU",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019918-1751172019-9-5-17-58-21.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=321twhs69zQ&feature=youtu.be",
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1200.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1920x1200-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Teclado </b>(em breve)",
+                "caption": "<b>Teclado </b>(16 Outubro)",
                 "active": true
               },
               {
