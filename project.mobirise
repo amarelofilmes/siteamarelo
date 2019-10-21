@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Amarelo Filmes",
-    "currentPage": "rosario.html",
+    "currentPage": "teasers.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3472,20 +3472,20 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Teclado </b>(16 Outubro)",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animado",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201998-1510252019-9-2-15-31-32.jpg",
-                "playVideo": false,
-                "videoUrl": "https://youtu.be/KpE20dqpTqU",
-                "image": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280-800x450.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019921-159152019-9-1-15-16-34.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/MaOZgplsWHw",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2019918-1751172019-9-5-17-58-21.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2019918-1751172019-9-5-17-58-21-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Violão&nbsp;</b>(em breve)",
-                "active": false
+                "caption": "<b>Violão&nbsp;</b>(17 Outubro)",
+                "active": true
               }
             ]
           }
