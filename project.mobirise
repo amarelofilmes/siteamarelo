@@ -3568,6 +3568,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Teatro - turma 4&nbsp;</b>(23 Outubro)",
+                "active": false
+              },
+              {
+                "tags": "Animado",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019930-2015312019-9-3-20-20-35.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/brc8rOd1JOY",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1920x1200-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Ginástica&nbsp;</b>(26 Outubro)",
                 "active": true
               }
             ]
