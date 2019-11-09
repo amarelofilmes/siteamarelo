@@ -3581,6 +3581,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Ginástica&nbsp;</b>(26 Outubro)",
+                "active": false
+              },
+              {
+                "tags": "Animado",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019109-1121272019-10-6-11-25-42.jpg",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/372073288",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2019921-159152019-9-1-15-16-34.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2019921-159152019-9-1-15-16-34-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>GTER: Os Miseráveis </b>5 Novembro",
                 "active": true
               }
             ]
