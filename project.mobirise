@@ -3594,6 +3594,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>GTER: Os Miseráveis </b>5 Novembro",
+                "active": false
+              },
+              {
+                "tags": "Animado",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20191012-1047112019-10-2-10-49-4.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/6n4E5bIUyZQ",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2019924-1929312019-9-4-19-30-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2019924-1929312019-9-4-19-30-2-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Balé: O Mágico de Oz </b>7 Novembro",
                 "active": true
               }
             ]
