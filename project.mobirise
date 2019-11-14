@@ -3607,6 +3607,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Balé: O Mágico de Oz </b>7 Novembro",
+                "active": false
+              },
+              {
+                "tags": "Animado",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20191014-1639142019-10-4-16-39-42.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/czoxjWOIkMI",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2019921-159152019-9-1-15-16-34.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2019921-159152019-9-1-15-16-34-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Pequenos Escritores (</b>10 Nov.)",
                 "active": true
               }
             ]
