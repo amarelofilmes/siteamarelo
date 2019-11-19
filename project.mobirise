@@ -3620,6 +3620,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Pequenos Escritores (</b>10 Nov.)",
+                "active": false
+              },
+              {
+                "tags": "Animado",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20191019-1510342019-10-2-15-11-29.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/ILVK_842kIQ",
+                "image": "@PROJECT_PATH@/assets/images/mobirise20191012-1047112019-10-2-10-49-4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise20191012-1047112019-10-2-10-49-4-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Orquestra </b>(13 Novembro)",
                 "active": true
               }
             ]
