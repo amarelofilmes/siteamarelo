@@ -3593,7 +3593,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>GTER: Os Miseráveis </b>5 Novembro",
+                "caption": "<b>GTER: Os Miseráveis </b>(5 Nov)",
                 "active": false
               },
               {
@@ -3606,7 +3606,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Balé: O Mágico de Oz </b>7 Novembro",
+                "caption": "<b>Balé: O Mágico de Oz </b>(7 Nov)",
                 "active": false
               },
               {
@@ -3619,7 +3619,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Pequenos Escritores (</b>10 Nov.)",
+                "caption": "<b>Pequenos Escritores </b>(10 Nov)",
                 "active": false
               },
               {
@@ -3633,6 +3633,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Orquestra </b>(13 Novembro)",
+                "active": false
+              },
+              {
+                "tags": "Animado",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20191024-1025522019-10-0-10-26-32.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/JI6rw5wBwKs",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2019925-198292019-9-5-19-12-52.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2019925-198292019-9-5-19-12-52-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>POA por Kleiton &amp; Kledir </b>19-20",
                 "active": true
               }
             ]
