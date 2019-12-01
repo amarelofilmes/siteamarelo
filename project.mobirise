@@ -3659,6 +3659,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Vernissage&nbsp;</b>(21 e 28 Novembro)",
+                "active": false
+              },
+              {
+                "tags": "Animado",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019111-1935252019-11-0-19-36-27.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/zOzMdgLe6gg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2019918-1751172019-9-5-17-58-21.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2019918-1751172019-9-5-17-58-21-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Formação do nosso povo<br></b>(25 e 26 Novembro)",
                 "active": true
               }
             ]
