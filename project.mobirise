@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Amarelo Filmes",
-    "currentPage": "rosario.html",
+    "currentPage": "teasers.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3672,6 +3672,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Formação do nosso povo<br></b>(25 e 26 Novembro)",
+                "active": false
+              },
+              {
+                "tags": "Animado",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019119-2222352019-11-1-22-23-46.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/JV-R8DmRKJU",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2019918-1751172019-9-5-17-58-21.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2019918-1751172019-9-5-17-58-21-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Festas e danças Brasil</b> 3-4/12",
                 "active": true
               }
             ]
