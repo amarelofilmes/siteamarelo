@@ -4168,27 +4168,6 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #14b0cc, #14b0cc) !important;
 }
-.cid-rD7r169HNR {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #232323;
-  background: linear-gradient(45deg, #232323, #003a63);
-}
-.cid-rD7r169HNR .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-rD7r169HNR .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-rD7r169HNR H2 {
-  color: #ffffff;
-}
-.cid-rD7r169HNR .mbr-section-subtitle B {
-  color: #ffffff;
-}
-.cid-rD7r169HNR .mbr-section-subtitle I {
-  color: #fafafa;
-}
 .cid-rqaLNmnfoE {
   padding-top: 30px;
   padding-bottom: 15px;
