@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Amarelo Filmes",
-    "currentPage": "index.html",
+    "currentPage": "oque.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1740,6 +1740,32 @@
                 "videoUrl": "https://vimeo.com/432675892",
                 "image": "@PROJECT_PATH@/assets/images/mobirise2020527-106152020-5-6-10-13-52.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mobirise2020527-106152020-5-6-10-13-52-640x360.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Digite aqui a legenda",
+                "active": false
+              },
+              {
+                "tags": "Institucional",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020527-106152020-5-6-10-35-44.jpg",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/433121230",
+                "image": "@PROJECT_PATH@/assets/images/mobirise20191024-1025522019-10-0-10-26-32.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise20191024-1025522019-10-0-10-26-32-480x360.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Digite aqui a legenda",
+                "active": false
+              },
+              {
+                "tags": "Conteúdo",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020527-106152020-5-6-11-0-56.jpg",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/433124081",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2019222-162062019-2-5-16-48-39.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2019222-162062019-2-5-16-48-39-640x360.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
