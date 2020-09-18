@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Amarelo Filmes",
-    "currentPage": "index.html",
+    "currentPage": "oque.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1643,19 +1643,6 @@
             "gallery__filtersBtnStyle": "btn-white-outline",
             "gallery": [
               {
-                "tags": "Propaganda",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201943-1937112019-4-5-19-37-43.jpg",
-                "playVideo": true,
-                "videoUrl": "https://vimeo.com/334081136",
-                "image": "@PROJECT_PATH@/assets/images/background1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/background1-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Digite aqui a legenda",
-                "active": false
-              },
-              {
                 "tags": "Institucional",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019222-162062019-2-5-16-46-20.jpg",
                 "playVideo": true,
@@ -1766,6 +1753,19 @@
                 "videoUrl": "https://vimeo.com/433124081",
                 "image": "@PROJECT_PATH@/assets/images/mobirise2019222-162062019-2-5-16-48-39.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mobirise2019222-162062019-2-5-16-48-39-640x360.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Digite aqui a legenda",
+                "active": false
+              },
+              {
+                "tags": "Institucional",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020818-1233402020-8-5-12-48-18.jpg",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/459420851",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2019222-162062019-2-5-16-46-20.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2019222-162062019-2-5-16-46-20-640x360.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -3896,21 +3896,8 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Construct In - Institucional",
+                "caption": "Construct In | Institucional",
                 "active": false
-              },
-              {
-                "tags": "Criativo",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201993-1923492019-9-4-19-30-12.jpg",
-                "playVideo": true,
-                "videoUrl": "https://vimeo.com/364177119",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1280-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Varigold - Campanha de Lançamento",
-                "active": true
               },
               {
                 "tags": "Criativo",
@@ -3924,6 +3911,19 @@
                 "customStyle1": "display-7",
                 "caption": "<p>Construct In – Campanha de Lançamento App</p>",
                 "active": false
+              },
+              {
+                "tags": "Criativo",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201993-1923492019-9-4-19-30-12.jpg",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/364177119",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2019422-1632142019-4-3-16-49-17.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2019422-1632142019-4-3-16-49-17-640x360.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Varigold - Campanha de Lançamento",
+                "active": true
               }
             ]
           }
