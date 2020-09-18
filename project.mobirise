@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Amarelo Filmes",
-    "currentPage": "oque.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3910,20 +3910,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Varigold - Campanha de Lançamento",
-                "active": false
-              },
-              {
-                "tags": "Criativo",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201943-1937112019-4-5-19-37-43.jpg",
-                "playVideo": true,
-                "videoUrl": "https://vimeo.com/334081136",
-                "image": "@PROJECT_PATH@/assets/images/mobirise201943-1937112019-4-5-19-37-43.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mobirise201943-1937112019-4-5-19-37-43-640x272.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Campanha Dia das Mães Lift Gold",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Criativo",
@@ -3936,7 +3923,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<p>Construct In – Campanha de Lançamento App</p>",
-                "active": true
+                "active": false
               }
             ]
           }
